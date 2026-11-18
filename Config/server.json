@@ -1,0 +1,10 @@
+{
+  "login_port": 22001,
+  "world_hint_port": 22101,
+  "bind": "127.0.0.1",
+  "account_port": 18290,
+  "gm_port": 18292,
+  "instance_id": "neoasmara-public",
+  "migration_complete": false,
+  "gm_local_account_login_only": true
+}

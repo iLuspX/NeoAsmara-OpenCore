@@ -1,0 +1,202 @@
+{
+  "backend": "sqlite",
+  "freshDatabases": true,
+  "sourcePlayerDataCopied": false,
+  "databases": [
+    {
+      "database": "asmara_website.sqlite",
+      "sha256": "6970b5ff531554259ee013fc53a3de7d71c1216c4fd8a4f0a089e2be3844f6b3",
+      "tables": 5,
+      "retainedStaticTables": [],
+      "rows": {
+        "site_audit": 0,
+        "site_content": 0,
+        "site_documents": 0,
+        "web_coupons": 0,
+        "web_orders": 0
+      },
+      "playerAndCredentialRows": 0,
+      "integrityCheck": "ok"
+    },
+    {
+      "database": "karos_gameplay.sqlite",
+      "sha256": "6284e6e42994dd5dd58ac451b4f43ba2b989ad9799a816928df8b0a909425463",
+      "tables": 86,
+      "retainedStaticTables": [
+        "drop_rules"
+      ],
+      "rows": {
+        "accounts": 0,
+        "attendance_claims": 0,
+        "attendance_days": 0,
+        "cash_price_edits": 0,
+        "character_locations": 0,
+        "character_title_selection": 0,
+        "character_titles": 0,
+        "consignment": 0,
+        "consignment_registration": 0,
+        "consumable_uses": 0,
+        "drop_rules": 3580,
+        "dungeon_activations": 0,
+        "dungeon_events": 0,
+        "dungeon_kills": 0,
+        "dungeon_members": 0,
+        "dungeon_runs": 0,
+        "dungeon_triggers": 0,
+        "enchant_operations": 0,
+        "equipment_instances": 0,
+        "equipment_trait_events": 0,
+        "gacha_prize_edits": 0,
+        "gm_actions": 0,
+        "gm_item_delivery_actors": 0,
+        "gm_item_history": 0,
+        "gm_item_lineage": 0,
+        "gm_item_origins": 0,
+        "gm_mail": 0,
+        "gm_mail_native": 0,
+        "gm_spawn_sequence": 0,
+        "gm_spawns": 0,
+        "ground_item_merit": 0,
+        "ground_items": 0,
+        "ground_wire_ids": 0,
+        "inventory_demo": 0,
+        "inventory_grants": 0,
+        "inventory_operations": 0,
+        "inventory_slots": 0,
+        "inventory_uid_seq": 0,
+        "item_custom_affixes": 0,
+        "item_enchantments": 0,
+        "item_pk_fusions": 0,
+        "local_item_orders": 0,
+        "map_transfer_recovery": 0,
+        "map_travel_events": 0,
+        "meta": 0,
+        "mob_kills": 0,
+        "native_active_skill_operations": 0,
+        "native_cash_piece_boxes": 0,
+        "native_consumable_uses": 0,
+        "native_costume_boxes": 0,
+        "native_costume_choices": 0,
+        "native_expired_items": 0,
+        "native_guild_carats_rights": 0,
+        "native_guild_invites": 0,
+        "native_guild_members": 0,
+        "native_guild_profiles": 0,
+        "native_guild_storage_rights": 0,
+        "native_guilds": 0,
+        "native_inventory_grants": 0,
+        "native_item_affix_origins": 0,
+        "native_profession_changes": 0,
+        "native_public_character_names": 0,
+        "native_quest_rewards": 0,
+        "native_skill_operations": 0,
+        "native_staff_chat": 0,
+        "npc_shop_operations": 0,
+        "pending_rewards": 0,
+        "personal_storage": 0,
+        "premium_catalog_audit": 0,
+        "premium_ledger": 0,
+        "premium_wallet": 0,
+        "quest_completions": 0,
+        "quest_cycles": 0,
+        "quest_dialogue_events": 0,
+        "quest_objectives": 0,
+        "quest_state": 0,
+        "quest_wire_operations": 0,
+        "reward_instances": 0,
+        "spawn_deaths": 0,
+        "starter_choices": 0,
+        "starter_piece_boxes": 0,
+        "storage_carats": 0,
+        "storage_carats_events": 0,
+        "title_audit": 0,
+        "wallet": 0,
+        "wallet_events": 0
+      },
+      "playerAndCredentialRows": 0,
+      "integrityCheck": "ok"
+    },
+    {
+      "database": "karos_login.sqlite",
+      "sha256": "ae6b00ba808feaa100676da3db28cbdaa122f3b4680d2cb40a51d1e1c2d56bec",
+      "tables": 6,
+      "retainedStaticTables": [],
+      "rows": {
+        "game_ticket_locales": 0,
+        "game_tickets": 0,
+        "local_owner_claims": 0,
+        "login_accounts": 0,
+        "login_sessions": 0,
+        "login_throttle": 0
+      },
+      "playerAndCredentialRows": 0,
+      "integrityCheck": "ok"
+    },
+    {
+      "database": "karos_roles.sqlite",
+      "sha256": "c3c37795f27a15e7b5c1f101843c3656fd631478971d6fa17695bf90f3507073",
+      "tables": 3,
+      "retainedStaticTables": [],
+      "rows": {
+        "local_operator_audit": 0,
+        "staff_audit": 0,
+        "staff_roles": 0
+      },
+      "playerAndCredentialRows": 0,
+      "integrityCheck": "ok"
+    },
+    {
+      "database": "local_staff_passwords.sqlite",
+      "sha256": "501b2455fe20a09de9970183e9a45e590e8dc6acbd7acfed71854751346d3277",
+      "tables": 1,
+      "retainedStaticTables": [],
+      "rows": {
+        "staff_chat_passwords": 0
+      },
+      "playerAndCredentialRows": 0,
+      "integrityCheck": "ok"
+    },
+    {
+      "database": "moderation.sqlite",
+      "sha256": "3d818df8bfa7b8bca525f8bc45936ef5b5634e842500a3ba380292fdb9b1128f",
+      "tables": 4,
+      "retainedStaticTables": [],
+      "rows": {
+        "device_observations": 0,
+        "moderation_audit": 0,
+        "native_kicks": 0,
+        "sanctions": 0
+      },
+      "playerAndCredentialRows": 0,
+      "integrityCheck": "ok"
+    },
+    {
+      "database": "runtime.sqlite",
+      "sha256": "2d36b02f1dd1e5f6af6920f1365edbda2149878384742b5470628cf3a0eafccf",
+      "tables": 6,
+      "retainedStaticTables": [],
+      "rows": {
+        "native_jobs": 0,
+        "native_lifecycle": 0,
+        "native_player_leases": 0,
+        "native_save_requests": 0,
+        "native_services": 0,
+        "native_sessions": 0
+      },
+      "playerAndCredentialRows": 0,
+      "integrityCheck": "ok"
+    },
+    {
+      "database": "staff_second_login.sqlite",
+      "sha256": "fdd9f0de2fe17d52aa22938a4870ec65a0c09fb7de2dbc70f3f07187ac20e269",
+      "tables": 2,
+      "retainedStaticTables": [],
+      "rows": {
+        "staff_credentials": 0,
+        "staff_login_failures": 0
+      },
+      "playerAndCredentialRows": 0,
+      "integrityCheck": "ok"
+    }
+  ]
+}

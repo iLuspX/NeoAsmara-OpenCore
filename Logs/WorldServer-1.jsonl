@@ -1,0 +1,10 @@
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795023508.444836}
+{"level":"info","message":"Service started","time":1795023508.445469}
+{"level":"error","message":"database is locked","time":1795023895.79945}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795025122.60706}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795025126.177324}
+{"level":"info","message":"Service started","time":1795025126.17825}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795038177.59208}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795038269.431655}
+{"level":"info","message":"Service started","time":1795038269.432527}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795038276.69623}

@@ -1,0 +1,32 @@
+ROSH : NEO ASMARA - PRECONFIGURED LOCAL SERVER
+
+1. Extract this complete folder.
+2. Double-click START.cmd.
+
+The eight databases are already included in this folder's Database directory.
+Do not copy or move databases from another folder.
+No SQL Server installation, website or Python is needed.
+START.cmd prepares the local content protection automatically and opens
+MainServer visibly with the four-channel server cluster.
+
+STOP.cmd shuts down only this installation normally.
+STATUS.cmd lists this installation's processes.
+
+Default local endpoints:
+Game login: 127.0.0.1:22001
+Account API: http://127.0.0.1:18290
+GM API: 127.0.0.1:18292
+
+Keep Bin, Config, Data, Database and Bootstrap together.
+The complete folder can have a different name and location.
+Run it from a writable location on a compatible Windows x64 computer.
+
+No player account or password is included.
+Register your own account through the matching external-login launcher.
+Existing accounts are preserved when START.cmd is run again.
+
+Development preview: this does not claim that all gameplay systems are complete.
+
+Client repair source: Config/client-updates.json points to the existing client
+folder. A full client mirror is not part of the lean server ZIP. Your existing
+client ZIP, protected hashes and release signature do not need to change.

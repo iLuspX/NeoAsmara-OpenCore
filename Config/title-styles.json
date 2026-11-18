@@ -1,0 +1,148 @@
+{
+  "titles": [
+    {
+      "id": 1001,
+      "name": "Player",
+      "rarity": "common",
+      "staff_reserved": false
+    },
+    {
+      "id": 1002,
+      "name": "Newbie",
+      "rarity": "common",
+      "staff_reserved": false
+    },
+    {
+      "id": 1101,
+      "name": "Alpha Tester",
+      "rarity": "special",
+      "staff_reserved": false
+    },
+    {
+      "id": 1102,
+      "name": "Beta Tester",
+      "rarity": "special",
+      "staff_reserved": false
+    },
+    {
+      "id": 2001,
+      "name": "Helper",
+      "rarity": "staff",
+      "staff_reserved": true
+    },
+    {
+      "id": 2002,
+      "name": "MOD",
+      "rarity": "staff",
+      "staff_reserved": true
+    },
+    {
+      "id": 2003,
+      "name": "GM",
+      "rarity": "staff",
+      "staff_reserved": true
+    },
+    {
+      "id": 2004,
+      "name": "Admin",
+      "rarity": "staff",
+      "staff_reserved": true
+    },
+    {
+      "id": 2005,
+      "name": "Ticket Support",
+      "rarity": "staff",
+      "staff_reserved": true
+    },
+    {
+      "id": 2006,
+      "name": "GM Player",
+      "rarity": "staff",
+      "staff_reserved": true
+    },
+    {
+      "id": 2007,
+      "name": "Asmare Staff",
+      "rarity": "staff",
+      "staff_reserved": true
+    },
+    {
+      "id": 2008,
+      "name": "Discord Mod",
+      "rarity": "staff",
+      "staff_reserved": true
+    },
+    {
+      "id": 2009,
+      "name": "Discord Helper",
+      "rarity": "staff",
+      "staff_reserved": true
+    },
+    {
+      "id": 3001,
+      "name": "VIP",
+      "rarity": "special",
+      "staff_reserved": false
+    },
+    {
+      "id": 4001,
+      "name": "Boss Killer",
+      "rarity": "achievement",
+      "staff_reserved": false
+    },
+    {
+      "id": 4002,
+      "name": "Pk Killer",
+      "rarity": "achievement",
+      "staff_reserved": false
+    },
+    {
+      "id": 5001,
+      "name": "Caçador de Lendas",
+      "rarity": "rare",
+      "staff_reserved": false
+    },
+    {
+      "id": 5002,
+      "name": "Lenda de Asmara",
+      "rarity": "rare",
+      "staff_reserved": false
+    },
+    {
+      "id": 5003,
+      "name": "Soberano do Labirinto",
+      "rarity": "rare",
+      "staff_reserved": false
+    },
+    {
+      "id": 5004,
+      "name": "Coroa de Cinzas",
+      "rarity": "rare",
+      "staff_reserved": false
+    },
+    {
+      "id": 6001,
+      "name": "Fundador de Asmara",
+      "rarity": "special",
+      "staff_reserved": false
+    },
+    {
+      "id": 6002,
+      "name": "Guardião da Primeira Era",
+      "rarity": "special",
+      "staff_reserved": false
+    },
+    {
+      "id": 6003,
+      "name": "Solstício de Asmara",
+      "rarity": "special",
+      "staff_reserved": false
+    },
+    {
+      "id": 6004,
+      "name": "Luz do Aniversário",
+      "rarity": "special",
+      "staff_reserved": false
+    }
+  ]
+}
