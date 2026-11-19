@@ -8,3 +8,96 @@
 {"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795038269.561291}
 {"level":"info","message":"Service started","time":1795038269.561939}
 {"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795038276.664114}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795043320.881505}
+{"level":"info","message":"Service started","time":1795043320.882342}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795044146.07514}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795082865.242457}
+{"level":"info","message":"Service started","time":1795082865.243091}
+{"level":"info","message":"Authenticated native session admitted; credentials omitted","time":1795083213.905485}
+{"level":"pending","message":"Native opcode requires gameplay migration: 2/11","time":1795083213.981458}
+{"level":"pending","message":"Native opcode requires gameplay migration: 7/1","time":1795083220.271297}
+{"level":"pending","message":"Native opcode requires gameplay migration: 7/1","time":1795083220.272024}
+{"level":"pending","message":"Native opcode requires gameplay migration: 10/10","time":1795083220.868053}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083230.237081}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083240.231036}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083250.228992}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083260.233982}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083270.233034}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083280.229735}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083290.237887}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083300.223922}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083310.237142}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083320.228806}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083330.231533}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083340.226067}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083350.237193}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083360.236699}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083370.2283}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083380.239031}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083390.227873}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083400.2373}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083410.241161}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083420.236119}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083430.235481}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083440.237988}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083450.229227}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083460.234114}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083470.237942}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083480.235047}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083490.226693}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083500.232068}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083510.230895}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083520.239615}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083530.231787}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083540.237936}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083550.235111}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083560.225693}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083570.230632}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083580.224342}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083590.228056}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083600.2366}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083610.232754}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083620.235767}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083630.238719}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083640.23474}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083650.232479}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083660.238582}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083670.231805}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083680.236188}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083690.227388}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083700.234534}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083710.234586}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083720.230183}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083730.231961}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083740.234719}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083750.228719}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083760.235464}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083770.226323}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083780.230145}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083790.23258}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083800.237034}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083810.225578}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/92","time":1795083820.238298}
+{"level":"pending","message":"Native opcode requires gameplay migration: 7/1","time":1795083827.446392}
+{"level":"pending","message":"Native opcode requires gameplay migration: 7/1","time":1795084150.113732}
+{"level":"pending","message":"Native opcode requires gameplay migration: 7/1","time":1795084644.222826}
+{"level":"pending","message":"Native opcode requires gameplay migration: 7/1","time":1795084666.925899}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/51","time":1795084678.070255}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/51","time":1795084679.137821}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/51","time":1795084680.576046}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/51","time":1795084680.823191}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/51","time":1795084681.03374}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/51","time":1795084681.244307}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/51","time":1795084681.46456}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/51","time":1795084681.884329}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/51","time":1795084682.290928}
+{"level":"pending","message":"Native opcode requires gameplay migration: 6/51","time":1795084682.73955}
+{"level":"pending","message":"Native opcode requires gameplay migration: 7/1","time":1795085127.22967}
+{"level":"warning","message":"Native connection ended: Invalid movement coordinates","time":1795085139.724078}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795085488.021718}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795091159.067115}
+{"level":"info","message":"Service started","time":1795091159.06785}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795091162.820029}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795092161.228237}
+{"level":"info","message":"Service started","time":1795092161.228934}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795092204.395492}

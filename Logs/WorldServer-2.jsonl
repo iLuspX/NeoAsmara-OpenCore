@@ -8,3 +8,18 @@
 {"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795038269.503388}
 {"level":"info","message":"Service started","time":1795038269.50407}
 {"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795038276.648343}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795043320.820934}
+{"level":"info","message":"Service started","time":1795043320.821638}
+{"level":"info","message":"Authenticated native session admitted; credentials omitted","time":1795043976.143423}
+{"level":"pending","message":"Native opcode requires gameplay migration: 7/1","time":1795043987.503686}
+{"level":"pending","message":"Native opcode requires gameplay migration: 1/0","time":1795044054.928918}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795044146.122191}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795082864.807948}
+{"level":"info","message":"Service started","time":1795082864.809212}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795085488.013119}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795091158.457274}
+{"level":"info","message":"Service started","time":1795091158.457916}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795091162.742078}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795092160.742717}
+{"level":"info","message":"Service started","time":1795092160.743361}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795092204.364514}

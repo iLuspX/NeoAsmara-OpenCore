@@ -7,3 +7,16 @@
 {"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795038268.316836}
 {"level":"info","message":"Service started","time":1795038268.317374}
 {"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795038276.854817}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795043319.697144}
+{"level":"info","message":"Service started","time":1795043319.697656}
+{"level":"console","message":"Admin assigned to LuspX (EID 10386). Account password preserved; staff authentication remains required in game.","time":1795043473.082369}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795044147.129518}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795082862.605148}
+{"level":"info","message":"Service started","time":1795082862.605676}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795085488.61602}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795091156.584979}
+{"level":"info","message":"Service started","time":1795091156.585803}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795091162.961691}
+{"level":"info","message":"Native C++ service initialized; no Python subprocess","time":1795092158.670644}
+{"level":"info","message":"Service started","time":1795092158.671139}
+{"level":"info","message":"Service stopped; connections closed and SQLite checkpoint completed","time":1795092205.192715}
