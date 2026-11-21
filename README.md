@@ -19,7 +19,7 @@ Actual screenshots supplied from the test installation. Paths and process IDs sh
 
 | Requirement | Details |
 |---|---|
-| Operating system | Windows x64; development and local validation use Windows 11 IoT |
+| Operating system | Windows x64; development and local validation use Windows 10 or 11|
 | Native libraries | Included `libc++.dll` and `libunwind.dll`; keep them beside the executables |
 | Windows components | Windows CNG, DPAPI, Winsock and `winsqlite3.dll` |
 | Database engine | SQLite; no separate engine installation |
